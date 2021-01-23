@@ -5,7 +5,7 @@
   Available Sensors : Linear Acc. , Gyro, AHRS  
   Used device : Samsung Galaxy Note 9
   
-  /************** Development in Progress (Not over yet) ******************/
+  /************** not over yet... optimization needed ******************/
   
  references
  [1] GetSensorData: https://lopsi.weebly.com/downloads.html
