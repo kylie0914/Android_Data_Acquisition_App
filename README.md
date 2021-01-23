@@ -3,7 +3,7 @@
 
 
   Available Sensors : Linear Acc. , Gyro, AHRS  
-  Used device : Samsung Galaxy Note 9
+  Used device : Samsung Galaxy Note 9 (android)
   
   /************** not over yet... optimization needed ******************/
   
